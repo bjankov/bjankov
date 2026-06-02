@@ -1,5 +1,19 @@
-# Contact:  
-jankovic.bruno@gmail.com
+# [Bruno]
+
+Software Engineering student.
+
+Currently focused on Java and Spring Boot development.
+
+### Interests
+
+- Backend development
+- Software architecture
+- REST APIs
+- Databases
+
+### Contact
+
+LinkedIn: [https://www.linkedin.com/in/bruno-jankovi%C4%87-a9493b293/]
 
 <!--
 **bjankov/bjankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
