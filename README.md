@@ -1,18 +1,16 @@
-# [Bruno]
-
+# Bruno
+***
 Software Engineering student.
 
 Currently focused on Java and Spring Boot development.
 
 ### Interests
-
 - Backend development
 - Software architecture
 - REST APIs
 - Databases
 
 ### Contact
-
 LinkedIn: [link](https://www.linkedin.com/in/bruno-jankovi%C4%87-a9493b293/])
 
 <!--
