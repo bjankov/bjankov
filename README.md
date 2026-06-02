@@ -1,5 +1,4 @@
 # Bruno
-***
 Software Engineering student.
 
 Currently focused on Java and Spring Boot development.
