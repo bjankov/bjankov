@@ -5,6 +5,8 @@ Currently focused on Java and Spring Boot development.
 
 ### Interests
 - Backend development
+- Distributed systems
+- Microservices
 - Software architecture
 - REST APIs
 - Databases
